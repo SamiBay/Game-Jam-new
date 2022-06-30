@@ -1,0 +1,4 @@
+repository "Bootleg animal crossing game@pls_toimi_kotona@cloud"
+  path "/"
+    br "/main"
+    co "/main"
